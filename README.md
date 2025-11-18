@@ -11,7 +11,7 @@ Este é um projeto simples usado para ensinar estudantes a:
 - Editar arquivos pelo GitHub
 - Escrever documentação clara
 - Utilizar Markdown no README
-- Criar uma apresentação profissional para seus projetos
+- Criar uma apresentação profissional para seus projetos.
 
 ## 📚 Conteúdos abordados
 
